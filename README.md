@@ -37,3 +37,7 @@ The provisioning script is performing the following actions:
 15. Run some of the [sample queries](/queries.kql).
 16. In the simulator, click "Stop simulation".
 17. Delete the Azure Resource Group for the lab.
+
+## Azure Synapse Data Explorer Test
+
+Azure Data Explorer clusters within Azure Synapse is currently in preview.  I tried to get the ADT history plug in to work by manually creating a connection.  You can see the results at [Synapse Test](/synapse%20setup.md).
